@@ -1,1 +1,1 @@
-# Python dependencies 
+numpy==2.3.2
